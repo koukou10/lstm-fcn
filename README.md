@@ -8,5 +8,5 @@ We will work on the application of the algorithm to a database containing electr
 Link for the dataset: [TwoLeadECG](http://timeseriesclassification.com/description.php?Dataset=TwoLeadECG)
 
 ### Results (Acuracy):
-- k-NN: 95,65% 
+- k-NN: 93,06% for k = 1 
 - LSTM-FCN: 100,00% !
